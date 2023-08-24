@@ -1,5 +1,3 @@
-AI-Assisted Conflict Resolution and Negotiation
-=================================================================================================================
 
 In this chapter, we will explore how artificial intelligence (AI) can assist in conflict resolution and negotiation, improving decision making and problem solving. AI can provide valuable insights into conflicts and negotiations, enabling individuals to make more informed decisions and find mutually beneficial solutions.
 

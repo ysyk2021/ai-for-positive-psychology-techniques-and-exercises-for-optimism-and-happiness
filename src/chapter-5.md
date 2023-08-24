@@ -1,5 +1,3 @@
-Chapter 5: Improving Decision Making and Problem Solving with AI
-================================================================
 
 In this chapter, we will explore how artificial intelligence (AI) can be used to improve decision making and problem solving. AI can provide valuable insights into various aspects of decision making and problem solving, enabling individuals to make more informed decisions and find optimal solutions.
 

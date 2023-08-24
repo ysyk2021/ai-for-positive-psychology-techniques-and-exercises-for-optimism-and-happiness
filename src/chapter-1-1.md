@@ -1,5 +1,3 @@
-Understanding the Role of AI in Positive Psychology and Well-Being
-=========================================================================================================================
 
 In recent years, there has been growing interest in the role of artificial intelligence (AI) in positive psychology and well-being. AI has the potential to revolutionize the field of positive psychology by providing new insights into human behavior and enabling individuals to make more informed decisions about their well-being.
 

@@ -1,5 +1,3 @@
-Selecting the Right Tools for Your Positive Psychology Needs
-=================================================================================================================================
 
 In this chapter, we will explore how to select the right tools and technologies for AI-driven positive psychology. AI has the potential to revolutionize the field of positive psychology by providing new insights into human behavior and enabling individuals to make more informed decisions about their well-being.
 

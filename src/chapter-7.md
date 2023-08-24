@@ -1,5 +1,3 @@
-Chapter 7: Future Trends and Opportunities for AI-Driven Positive Psychology
-============================================================================
 
 As the field of artificial intelligence (AI) continues to evolve, there are several emerging trends that have the potential to revolutionize positive psychology practices. These trends offer exciting opportunities for improving well-being and achieving greater happiness.
 
