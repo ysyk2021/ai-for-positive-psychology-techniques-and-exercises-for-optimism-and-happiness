@@ -1,5 +1,4 @@
-Chapter: Mitigating Risks and Ensuring Compliance
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of mitigating risks and ensuring compliance when applying AI for positive psychology techniques. As artificial intelligence becomes more prevalent in various domains, it is crucial to address potential risks and adhere to ethical guidelines to foster trust and maintain the desired positive outcomes.
 
